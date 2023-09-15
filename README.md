@@ -11,7 +11,7 @@
 [Click here to view the PowerPoint presentation](oral_exam.pptx)
 
 ## 作業系統與程式環境
-* OS: Windows 11
+* OS: Windows 11 and Anaconda
 * Python 3.10.11
 * Torch 1.12.1
 * OpenCV 4.7.0.68
