@@ -9,3 +9,12 @@
 
 ## 口試ppt
 [Click here to view the PowerPoint presentation](oral_exam.pptx)
+
+## 作業系統與程式環境
+* OS: Windows 11
+* Python 3.10.11
+* Torch 1.12.1
+* OpenCV 4.7.0.68
+* pandas 1.5.1
+* numpy  1.23.4
+
