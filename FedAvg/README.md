@@ -1,3 +1,3 @@
 # FL_Master: FedBVA_SAT_Slack
-* FedAvg Version: 只公開MNIST的版本
-* 其他資料集涉及個資問題，不方便公開
+* FedAvg Version: MNIST的版本
+* 未公開的資料集為實驗室資產，不方便公開
