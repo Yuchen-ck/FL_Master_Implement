@@ -2,6 +2,7 @@
 碩士論文的實作
 
 ## 參考
+- [Structure](https://github.com/ki-ljl/FedProx-PyTorch)
 - [FedBVA](https://github.com/jwu4sml/FedBVA)
 - [SFAT](https://github.com/ZFancy/SFAT)
 
