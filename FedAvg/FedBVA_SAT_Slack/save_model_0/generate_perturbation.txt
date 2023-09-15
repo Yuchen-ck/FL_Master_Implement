@@ -1,0 +1,15 @@
+Cr 0 generating times: 1 minutes and 37 seconds.
+Cr 1 generating times: 1 minutes and 5 seconds.
+Cr 2 generating times: 1 minutes and 5 seconds.
+Cr 3 generating times: 1 minutes and 34 seconds.
+Cr 4 generating times: 1 minutes and 45 seconds.
+Cr 5 generating times: 1 minutes and 39 seconds.
+Cr 6 generating times: 1 minutes and 37 seconds.
+Cr 7 generating times: 1 minutes and 39 seconds.
+Cr 8 generating times: 1 minutes and 6 seconds.
+Cr 9 generating times: 1 minutes and 5 seconds.
+Cr 10 generating times: 1 minutes and 5 seconds.
+Cr 11 generating times: 1 minutes and 6 seconds.
+Cr 12 generating times: 1 minutes and 6 seconds.
+Cr 13 generating times: 1 minutes and 5 seconds.
+Cr 14 generating times: 1 minutes and 4 seconds.
