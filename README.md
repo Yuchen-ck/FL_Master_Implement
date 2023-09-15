@@ -1,5 +1,5 @@
 # FL_Master_Implement
-碩士論文的實作
+碩士論文的實作: 聯邦學習系統與對抗樣本攻擊的防禦
 
 ## 參考
 - [FL_Structure](https://github.com/ki-ljl/FedProx-PyTorch)
